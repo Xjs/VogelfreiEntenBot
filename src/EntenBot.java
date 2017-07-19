@@ -64,12 +64,19 @@ public class EntenBot extends TelegramLongPollingBot {
 			String text = update.getMessage().getText().toLowerCase();
 			SendMessage message = new SendMessage();
 			message.setChatId(update.getMessage().getChatId());
+			//write everything in lowercase in the contains
 			if(text.contains("ente")){
 				message.setText("*QUACK!*");
 			} else if (text.contains("bla")){
 				message.setText("*BLUB!*");
 			} else if (text.contains("kuh")){
 				message.setText("*MUUHH!*");
+			} else if (text.contains("187")){
+				message.setText("*MEHHHHH!*");
+			} else if (text.contains("kaneki")){
+				message.setText("*LAPPEN!*");
+			} else if (text.contains("fungi")){
+				message.setText("*MEGA!*");
 			} else {
 				return;
 			}

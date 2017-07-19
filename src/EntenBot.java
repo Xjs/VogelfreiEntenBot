@@ -61,16 +61,23 @@ public class EntenBot extends TelegramLongPollingBot {
 		// TODO Auto-generated method stub
 		System.out.println("Received msg");
 		if (update.hasMessage() && update.getMessage().hasText()) {
-			String text = update.getMessage().getText();
-			if(text.toLowerCase().contains("ente")){
-				SendMessage message = new SendMessage();
-				message.setChatId(update.getMessage().getChatId());
-				message.setText("Quack!");
-				try {
-					sendMessage(message); // Call method to send the message
-				} catch (TelegramApiException e) {
-					e.printStackTrace();
-				}
+			String text = update.getMessage().getText().toLowerCase();
+			SendMessage message = new SendMessage();
+			message.setChatId(update.getMessage().getChatId());
+			if(text.contains("ente")){
+				message.setText("*QUACK!*");
+			} else if (text.contains("bla")){
+				message.setText("*BLUB!*");
+			} else if (text.contains("kuh")){
+				message.setText("*MUUHH!*");
+			} else {
+				return;
+			}
+			message.setParseMode("markdown");
+			try {
+				sendMessage(message); // Call method to send the message
+			} catch (TelegramApiException e) {
+				e.printStackTrace();
 			}
 		}
 	}

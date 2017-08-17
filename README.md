@@ -1,7 +1,13 @@
 # TelegramEntenBot
+
+## Dependencies
+```
+sudo apt install openjdk-8-jdk
+```
+
 ## Installation
 ```shell
-sudo apt install openjdk-8-jdk
+git clone https://github.com/bergiu/TelegramEntenBot
 ./config.sh
 make
 ```

@@ -77,8 +77,8 @@ public class EntenBot extends TelegramLongPollingBot {
 				message.setText("*LAPPEN!*");
 			} else if (text.contains("fungi")){
 				message.setText("*MEGA!*");
-			} else if (text-contains("joker")){
-				 message.settext("*HAHAHAHAHA*");	
+			} else if (text.contains("joker")){
+				message.setText("*HAHAHAHAHA*");	
 			} else {
 				return;
 			}

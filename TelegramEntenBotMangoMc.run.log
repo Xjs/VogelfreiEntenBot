@@ -1,0 +1,451 @@
+Received msg
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:24 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:25 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+
+Aug 23, 2017 7:44:26 PM org.telegram.telegrambots.logging.BotLogger severe
+SCHWERWIEGEND: BOTSESSION
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:119)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:208)
+

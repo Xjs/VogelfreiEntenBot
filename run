@@ -5,6 +5,7 @@ if [ ! $LOG_DIR ]; then
 	LOG_DIR=$BASEDIR
 fi;
 
-java -cp bin:lib/telegrambots-2.4.4.5-jar-with-dependencies.jar Main 2>&1 >> $LOG_DIR/TelegramEntenBotMangoMc.run.log &
+java -cp bin:lib/telegrambots-2.4.4.5-jar-with-dependencies.jar Main 2>> $LOG_DIR/TelegramEntenBotMangoMc.run.log >> $LOG_DIR/TelegramEntenBotMangoMc.run.log &
+
 PID=$!;
 echo "$PID";

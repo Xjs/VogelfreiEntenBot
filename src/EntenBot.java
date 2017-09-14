@@ -67,12 +67,10 @@ public class EntenBot extends TelegramLongPollingBot {
 			//write everything in lowercase in the contains
 			if(text.contains("ente")){
 				message.setText("*QUACK!*");
-			} else if (text.contains("bla")){
-				message.setText("*BLUB!*");
-			} else if (text.contains("kuh")){
-				message.setText("*MUUHH!*");
-			} else if (text.contains("187")){
-				message.setText("*STRAßENBANDE!*");
+			// } else if (text.contains("bla")){
+			// 	message.setText("*BLUB!*");
+			// } else if (text.contains("kuh")){
+			// 	message.setText("*MUUHH!*");
 			} else if (text.contains("git")){
 				message.setText("*<3!*");
 			} else {

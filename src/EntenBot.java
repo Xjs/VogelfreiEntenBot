@@ -65,7 +65,10 @@ public class EntenBot extends TelegramLongPollingBot {
 			SendMessage message = new SendMessage();
 			message.setChatId(update.getMessage().getChatId());
 			//write everything in lowercase in the contains
-			if(text.contains("ente")){
+			if(text.equals("/license") || text.equals("/license"+this.getBotUsername())){
+				message.setText("Welcome!\nThis bot is a program which is available under the MIT licence at https://github.com/Bergiu/TelegramHicksBot");
+			}
+			else if(text.contains("ente")){
 				message.setText("*QUACK!*");
 			// } else if (text.contains("bla")){
 			// 	message.setText("*BLUB!*");

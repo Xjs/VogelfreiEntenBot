@@ -9,7 +9,7 @@ sudo apt install openjdk-8-jdk
 ```shell
 git clone https://github.com/bergiu/TelegramEntenBot
 ./config.sh
-make
+./build
 ```
 
 ## Configuration

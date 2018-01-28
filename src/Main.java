@@ -8,7 +8,7 @@ public class Main {
 		ApiContextInitializer.init();
 		TelegramBotsApi telegramBotsApi = new TelegramBotsApi();
 		try {
-			WindoofBot entenBot = new WindoofBot();
+			EntenBot entenBot = new EntenBot();
 			telegramBotsApi.registerBot(entenBot);
 		} catch (TelegramApiException e){
 			BotLogger.error("LOGTAG", e);

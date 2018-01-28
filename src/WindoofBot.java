@@ -12,13 +12,13 @@ import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.exceptions.TelegramApiException;
 import org.telegram.telegrambots.logging.BotLogger;
 
-public class EntenBot extends TelegramLongPollingBot {
+public class WindoofBot extends TelegramLongPollingBot {
 
 	private String botUsername;
 
 	private String botToken;
 
-	public EntenBot(){
+	public WindoofBot(){
 		String[] params = readTokenAndUsernameFromFile();
 		this.botToken = params[0];
 		this.botUsername = params[1];
@@ -66,19 +66,11 @@ public class EntenBot extends TelegramLongPollingBot {
 			message.setChatId(update.getMessage().getChatId());
 			//write everything in lowercase in the contains
 			if(text.equals("/license") || text.equals("/license"+this.getBotUsername())){
-				message.setText("Welcome!\nThis bot is a program which is available under the MIT license at https://github.com/Bergiu/TelegramEntenBot");
+				message.setText("Welcome!\nThis bot is a program which is available under the MIT license at https://github.com/Bergiu/TelegramWindoofBot");
 			}
-			else if(text.contains("ente")){
-				message.setText("*QUACK!*");
-			// } else if (text.contains("bla")){
-			// 	message.setText("*BLUB!*");
-			// } else if (text.contains("kuh")){
-			// 	message.setText("*MUUHH!*");
-			}
-			else if(text.contains("foss")){
-				message.setText("*FOOOOOOOSSSS <3!*");
-			}else if (text.contains("git") || text.contains("love")){
-				message.setText("*<3*");
+			else if(text.contains("windows")){
+				String replaced = text.replace("windows", "windoof");
+				message.setText("Meinst du:``` \n" + replaced + " ```\n");
 			} else {
 				return;
 			}

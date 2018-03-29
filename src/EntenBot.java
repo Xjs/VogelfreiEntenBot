@@ -77,7 +77,7 @@ public class EntenBot extends TelegramLongPollingBot {
 			}
 			else if(text.matches(".*f+o+s+s+.*")){
 				message.setText("*FOOOOOOOSSSS <3!*");
-			}else if (text.contains("git") || text.contains("love")){
+			} else if(text.contains("turmbraeu") || text.contains("turmbräu") || text.contains("git") || text.contains("love")){
 				message.setText("*<3*");
 			} else {
 				return;

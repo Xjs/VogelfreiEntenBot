@@ -75,7 +75,7 @@ public class EntenBot extends TelegramLongPollingBot {
 			// } else if (text.contains("kuh")){
 			// 	message.setText("*MUUHH!*");
 			}
-			else if(text.contains("foss")){
+			else if(text.matches(".*f+o+s+s+.*")){
 				message.setText("*FOOOOOOOSSSS <3!*");
 			}else if (text.contains("git") || text.contains("love")){
 				message.setText("*<3*");

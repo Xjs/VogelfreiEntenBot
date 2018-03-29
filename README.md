@@ -1,4 +1,7 @@
 # TelegramEntenBot
+A Telegram bot that acts like a duck. An Example is running here [@enten2_bot](https://t.me/enten2_bot).
+
+This Project is moved to [TgTriggerBots](https://github.com/BergiuTelegram/TgTriggerBots).
 
 ## Dependencies
 ```
@@ -7,7 +10,7 @@ sudo apt install openjdk-8-jdk
 
 ## Installation
 ```shell
-git clone https://github.com/bergiu/TelegramEntenBot
+git clone https://github.com/BergiuTelegram/TgEntenBot
 ./config.sh
 ./build
 ```

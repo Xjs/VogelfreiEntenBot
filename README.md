@@ -10,7 +10,7 @@ sudo apt install openjdk-8-jdk
 
 ## Installation
 ```shell
-git clone https://github.com/BergiuTelegram/TgEntenBot
+git clone https://github.com/BergiuTelegram/TgEntenBot && cd TgEntenBot
 ./config.sh
 ./build
 ```
@@ -21,4 +21,4 @@ git clone https://github.com/BergiuTelegram/TgEntenBot
 - Write your Botname into the file `BOTNAME` and your Token into the file `TOKEN`
 
 ## Run
-- `./run.sh`
+- `./run`

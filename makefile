@@ -23,7 +23,7 @@ build: $(CLASSES)
 	$(JC) $(JFLAGS) $(CLASSES)
 
 # damit der nicht versucht die datei "clean" du bauen
-.PHONY: clean
+.PHONY: build clean
 clean:
 	$(RM) bin/**/*.class
 	$(RM) bin/*.class

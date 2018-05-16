@@ -58,7 +58,6 @@ public class EntenBot extends TelegramLongPollingBot {
 
 	@Override
 	public void onUpdateReceived(Update update) {
-		// TODO Auto-generated method stub
 		System.out.println("Received msg");
 		if (update.hasMessage() && update.getMessage().hasText()) {
 			String text = update.getMessage().getText().toLowerCase();
@@ -85,9 +84,9 @@ public class EntenBot extends TelegramLongPollingBot {
 				message.setText("*HOCH*");
 			} else if (text.contains("tasse") || text.contains("kännchen")){
 				if (Math.random() < 0.7) {
-                	message.setText("*Kännchen!!*");
+					message.setText("*Kännchen!!*");
 				} else {
-                	message.setText("Tasse.");
+					message.setText("Tasse.");
 				}
 			} else if (text.contains("dachsenfranz")) {
 				message.setText("*Prosit! 🍻*");

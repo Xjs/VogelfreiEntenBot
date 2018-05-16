@@ -1,7 +1,7 @@
 # TelegramEntenBot
-A Telegram bot that acts like a duck. An Example is running here [@enten2_bot](https://t.me/enten2_bot).
+A Telegram bot that looks like a duck, walks like a duck, quacks like a duck, tastes like a duck. It should be running under [@VogelfreiEntenBot](https://t.me/VogelfreiEntenBot).
 
-This Project is moved to [TgTriggerBots](https://github.com/BergiuTelegram/TgTriggerBots).
+It is a fork of https://github.com/BergiuTelegram/TgEntenBot tailored to [Theatergruppe Vogelfrei](http://vogelfrei.in-hd.de)
 
 ## Dependencies
 ```
@@ -10,9 +10,10 @@ sudo apt install openjdk-8-jdk
 
 ## Installation
 ```shell
-git clone https://github.com/BergiuTelegram/TgEntenBot && cd TgEntenBot
+git clone https://github.com/Xjs/TgEntenBot && cd TgEntenBot
 ./config.sh
-./build
+# <configure TOKEN and BOTNAME, see below>
+make
 ```
 
 ## Configuration
@@ -21,4 +22,4 @@ git clone https://github.com/BergiuTelegram/TgEntenBot && cd TgEntenBot
 - Write your Botname into the file `BOTNAME` and your Token into the file `TOKEN`
 
 ## Run
-- `./run`
+- `java -cp bin:lib/telegrambots-2.4.4.5-jar-with-dependencies.jar Main`

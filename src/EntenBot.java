@@ -75,12 +75,22 @@ public class EntenBot extends TelegramLongPollingBot {
 			// } else if (text.contains("kuh")){
 			// 	message.setText("*MUUHH!*");
 			}
-			else if(text.matches(".*f+o+s+s+.*")){
+			else if (text.matches(".*f+o+s+s+.*")){
 				message.setText("*FOOOOOOOSSSS <3!*");
-			} else if(text.contains("turmbraeu") || text.contains("turmbräu") || text.contains("git") || text.contains("love")){
+			} else if (text.contains("turmbraeu") || text.contains("turmbräu") || text.contains("git") || text.contains("love")){
 				message.setText("*<3*");
-			} else if(text.contains("svn") || text.contains("subversion")){
+			} else if (text.contains("svn") || text.contains("subversion")){
 				message.setText("*QUAAAAACKKKK😡!!*");
+			} else if (text.contains("vivat")) {
+				message.setText("*HOCH*");
+			} else if (text.contains("tasse") || text.contains("kännchen")){
+				if (Math.random() < 0.7) {
+                	message.setText("*Kännchen!!*");
+				} else {
+                	message.setText("Tasse.");
+				}
+			} else if (text.contains("dachsenfranz")) {
+				message.setText("*Prosit! 🍻*");
 			} else {
 				return;
 			}

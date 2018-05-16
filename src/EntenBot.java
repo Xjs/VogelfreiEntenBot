@@ -91,6 +91,12 @@ public class EntenBot extends TelegramLongPollingBot {
 				}
 			} else if (text.contains("dachsenfranz")) {
 				message.setText("*Prosit! 🍻*");
+			} else if (text.contains("spät") '' text.contains("spaet")){
+				if (Math.random)< 0.2) {
+					message.setText("Das geht ja mal gar nicht! Du bist schon wieder spät dran? Überdenke lieber einmal deine Lebensentscheidungen. Und dann auch noch über Telegram schreiben. Schäm dich!")
+				} else {
+					message,SetText("War ja zu erwarten das gerade DU mal wieder spät dran bist...")
+				}
 			} else {
 				return;
 			}

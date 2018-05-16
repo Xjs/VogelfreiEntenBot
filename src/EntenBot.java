@@ -66,7 +66,7 @@ public class EntenBot extends TelegramLongPollingBot {
 			message.setChatId(update.getMessage().getChatId());
 			//write everything in lowercase in the contains
 			if(text.equals("/license") || text.equals("/license"+this.getBotUsername())){
-				message.setText("Welcome!\nThis bot is a program which is available under the MIT license at https://github.com/Xjs/TelegramEntenBot");
+				message.setText("Welcome!\nThis bot is a program which is available under the MIT license at https://github.com/Xjs/VogelfreiEntenBot");
 			}
 			else if(text.contains("ente")){
 				message.setText("*QUACK!*");
@@ -102,5 +102,4 @@ public class EntenBot extends TelegramLongPollingBot {
 			}
 		}
 	}
-
 }

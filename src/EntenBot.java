@@ -94,7 +94,7 @@ public class EntenBot extends TelegramLongPollingBot {
 				if (Math.random() < 0.2) {
 					message.setText("Das geht ja mal gar nicht! Du bist schon wieder spät dran? Überdenke lieber einmal deine Lebensentscheidungen. Und dann auch noch über Telegram schreiben. Schäm dich!");
 				} else {
-					message.setText("War ja zu erwarten das gerade DU mal wieder spät dran bist...");
+					message.setText("War ja zu erwarten, daß gerade DU mal wieder spät dran bist...");
 				}
 			} else {
 				return;

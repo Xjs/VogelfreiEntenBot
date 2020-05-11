@@ -31,10 +31,17 @@ func main() {
 	}
 
 	bot.Handle(telebot.OnText, func(m *telebot.Message) {
-		if response, ok := ente.Respond(m); ok {
-			bot.Send(m.Chat, response, &telebot.SendOptions{ParseMode: telebot.ModeMarkdownV2})
+		response, ok := ente.Respond(m)
+		if !ok {
+			return
+		}
+
+		if _, err := bot.Send(m.Chat, response,
+			&telebot.SendOptions{ParseMode: telebot.ModeMarkdownV2}); err != nil {
+			log.Printf("Error sending %s to %v: %v\n", response, m.Chat, err)
 		}
 	})
 
+	log.Println("Quack?")
 	bot.Start()
 }

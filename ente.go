@@ -35,6 +35,10 @@ func Respond(message *telebot.Message) (interface{}, bool) {
 		return strings.Contains(lower, needle)
 	}
 
+	if have("ente") {
+		return "*QUACK!*", true
+	}
+
 	if have("love") || have("git") {
 		return "*<3*", true
 	}

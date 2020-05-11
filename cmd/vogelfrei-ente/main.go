@@ -37,7 +37,7 @@ func main() {
 		}
 
 		if _, err := bot.Send(m.Chat, response,
-			&telebot.SendOptions{ParseMode: telebot.ModeMarkdownV2}); err != nil {
+			&telebot.SendOptions{ParseMode: telebot.ModeMarkdown}); err != nil {
 			log.Printf("Error sending %s to %v: %v\n", response, m.Chat, err)
 		}
 	})
